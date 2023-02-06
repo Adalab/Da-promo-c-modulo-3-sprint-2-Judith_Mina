@@ -1,0 +1,42 @@
+,nombre,ciudad,visitantes_año,año_conteo,pais_corto,continente,año_construccion
+0,Catedral de Notre Dame,París,14000000,2018,Francia,Europa,1163
+1,Basílica de San Pedro,Ciudad del Vaticano,8000000,2019,Ciudad del Vaticano,Europa,1506
+2,Basílica del Sagrado Corazón,París,10500000,2020,Francia,Europa,1923
+3,Museo del Louvre,París,7800000,2022,Francia,Europa,1793
+4,Santuario de Nuestra Señora de Fátima,Ourém,9400000,2012,Portugal,Europa,1928
+5,Palacio de Versalles,Versalles,10000000,2022,Francia,Europa,1634
+6,Coliseo,Roma,7600000,2019,Italia,Europa,72
+7,Partenón,Atenas,8500200,2019,Italia,Europa,-447
+8,Torre Eiffel,París,6100000,2018,Francia,Europa,1887
+9,Panteón,Roma,7000000,2019,Italia,Europa,125
+10,Museos Vaticanos,Ciudad del Vaticano,8000000,2019,Ciudad del Vaticano,Europa,1506
+11,Santuario del Padre Pío en San Giovanni Rotondo,San Giovanni Rotondo,6600000,2012,Italia,Europa,1861
+12,Museo Británico,Londres,6239983,2019,Reino Unido,Europa,1823
+13,Tate Modern,Londres,6098340,2019,Reino Unido,Europa,2006
+14,National Gallery de Londres,Londres,6011007,2019,Reino Unido,Europa,1824
+15,Santuario de Nuestra Señora de Lourdes,Lourdes,6000000,2012,Francia,Europa,1858
+16,Catedral de Colonia,Colonia,6200000,2018,Alemania,Europa,1248
+17,Basílica de San Francisco de Asís,Cracovia,5835027,2012,Polonia,Europa,1228
+18,Museo de Historia Natural (Londres),Londres,5300000,2019,Reino Unido,Europa,1873
+19,Palacio de Peterhof,San Petesburgo,9350000,2018,Rusia,Europa,1703
+20,Basílica de San Marcos,Venecia,5000000,2020,Italia,Europa,832
+21,Museo del Hermitage,San Petersburgo,4956529,2019,Rusia,Europa,1852
+22,Sagrada Familia,Barcelona,4500000,2018,España,Europa,1882
+23,Capilla Sixtina,Ciudad del Vaticano,8000000,2019,Ciudad del Vaticano,Europa,1473
+24,Duomo de Florencia,Florencia,10500000,2020,Italia,Europa,1296
+25,Museo Nacional Centro de Arte Reina Sofía,Madrid,4425699,2019,España,Europa,1756
+26,Santuario de Jasna Gora,Czestochowa,4400000,2019,Polonia,Europa,1382
+27,Galleria degli Uffizi,Florencia,4391861,2019,Italia,Europa,1581
+28,Museo de Victoria y Alberto,Londres,3932938,2019,Reino Unido,Europa,1852
+29,Museo de Orsay,París,3700000,2019,Francia,Europa,1986
+30,London Science Museum,Londres,3286000,2018,Reino Unido,Europa,1857
+31,Centre Pompidou,París,3273867,2019,Francia,Europa,1977
+32,Somerset House,Londres,3143626,2018,Reino Unido,Europa,1796
+33,Palacio de Wilanow,Varsovia,3098985,2016,Polonia,Europa,1677
+34,Palacio de Schönbrunn,Viena,7250000,2018,Austria,Europa,1700
+35,Kremlin de Kazán,Kazan,4500000,2016,Rusia,Europa,1848
+36,Museo del Prado,Madrid,2893000,2018,España,Europa,1785
+37,Museos del Kremlin de Moscú,Moscu,2900000,2019,Rusia,Europa,1850
+38,Torre de Londres,Londres,2980000,2019,Reino Unido,Europa,1100
+39,Alhambra,Granada,2700000,2019,España,Europa,1492
+40,Ciudad de las Artes y las Ciencias,Valencia,2637567,2018,España,Europa,1994

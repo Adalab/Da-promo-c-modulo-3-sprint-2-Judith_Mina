@@ -1,0 +1,42 @@
+,nombre,ciudad,visitantes_año,año_conteo,pais_corto,continente
+8,Catedral de Notre Dame,París,14000000,2018.0,Francia,Europa
+10,Basílica de San Pedro,Ciudad del Vaticano,8000000,2019.0,Ciudad del Vaticano,Europa
+12,Basílica del Sagrado Corazón,París,10 500 000,2020.0,Francia,Europa
+16,Museo del Louvre,París,7800000,2022.0,Francia,Europa
+17,Santuario de Nuestra Señora de Fátima,Ourém,9 400 000,2012.0,Portugal,Europa
+20,Palacio de Versalles,Versalles,10000000,2022.0,Francia,Europa
+22,Coliseo,Roma,7600000,2019.0,Italia,Europa
+25,Partenón,Atenas,,2019.0,Italia,Europa
+27,Torre Eiffel,París,6100000,2018.0,Francia,Europa
+28,Panteón,Roma,7 000 000,2019.0,Italia,Europa
+29,Museos Vaticanos,Ciudad del Vaticano,8000000,2019.0,Ciudad del Vaticano,Europa
+32,Santuario del Padre Pío en San Giovanni Rotondo,San Giovanni Rotondo,6 600 000,2012.0,Italia,Europa
+34,Museo Británico,Londres,6 239 983,2019.0,Reino Unido,Europa
+35,Tate Modern,Londres,6 098 340,2019.0,Reino Unido,Europa
+36,National Gallery de Londres,Londres,6 011 007,2019.0,Reino Unido,Europa
+37,Santuario de Nuestra Señora de Lourdes,Lourdes,6 000 000,2012.0,Francia,Europa
+39,Catedral de Colonia,Colonia,,2018.0,Alemania,Europa
+41,Basílica de San Francisco de Asís,Cracovia,,2012.0,Polonia,Europa
+42,Museo de Historia Natural (Londres),Londres,5 300 000,2019.0,Reino Unido,Europa
+43,Palacio de Peterhof,San Petesburgo,,2018.0,Rusia,Europa
+45,Basílica de San Marcos,Venecia,5 000 000,2020.0,Italia,Europa
+48,Museo del Hermitage,San Petersburgo,4 956 529,2019.0,Rusia,Europa
+52,Sagrada Familia,Barcelona,4 500 000,2018.0,España,Europa
+54,Capilla Sixtina,Ciudad del Vaticano,8000000,2019.0,Ciudad del Vaticano,Europa
+55,Duomo de Florencia,Florencia,,2020.0,Italia,Europa
+57,Museo Nacional Centro de Arte Reina Sofía,Madrid,4 425 699,2019.0,España,Europa
+58,Santuario de Jasna Gora,Czestochowa,4 400 000,2019.0,Polonia,Europa
+60,Galleria degli Uffizi,Florencia,4 391 861,2019.0,Italia,Europa
+66,Museo de Victoria y Alberto,Londres,3 932 938,2019.0,Reino Unido,Europa
+70,Museo de Orsay,París,3700000,2019.0,Francia,Europa
+77,London Science Museum,Londres,3 286 000,2018.0,Reino Unido,Europa
+78,Centre Pompidou,París,3 273 867,2019.0,Francia,Europa
+81,Somerset House,Londres,3 143 626,2018.0,Reino Unido,Europa
+83,Palacio de Wilanow,Varsovia,3 098 985,2016.0,Polonia,Europa
+84,Palacio de Schönbrunn,Viena,,2018.0,Austria,Europa
+88,Kremlin de Kazán,Kazan,,,Rusia,Europa
+89,Museo del Prado,Madrid,2 893 000,2018.0,España,Europa
+90,Museos del Kremlin de Moscú,Moscu,2900000,2019.0,Rusia,Europa
+91,Torre de Londres,Londres,2980000,2019.0,Reino Unido,Europa
+99,Alhambra,Granada,2700000,2019.0,España,Europa
+103,Ciudad de las Artes y las Ciencias,Valencia,2 637 567,2018.0,España,Europa
