@@ -1,0 +1,62 @@
+,nombre,ciudad,visitantes_año,año_conteo,pais_corto,continente,año_construccion,estilo
+0,Catedral de Notre Dame,París,14000000,2018.0,Francia,Europa,1163,Gótica francesa
+1,Basílica de San Pedro,Ciudad del Vaticano,8000000,2019.0,Ciudad del Vaticano,Europa,1506,Renacimiento-Barroco
+2,Basílica del Sagrado Corazón,París,10500000,2020.0,Francia,Europa,1923,Neobizantina
+3,Museo del Louvre,París,7800000,2022.0,Francia,Europa,1793,Barroca Francesa
+4,Santuario de Nuestra Señora de Fátima,Ourém,9400000,2012.0,Portugal,Europa,1928,Neobarroca
+5,Palacio de Versalles,Versalles,10000000,2022.0,Francia,Europa,1634,Barroca Francesa
+6,Coliseo,Roma,7600000,2019.0,Italia,Europa,72,Antigua arquitectura romana
+7,Partenón,Atenas,8500200,2019.0,Grecia,Europa,-447,Orden dórico
+8,Torre Eiffel,París,6100000,2018.0,Francia,Europa,1887,Ariquectura del hierro
+9,Panteón,Roma,7000000,2019.0,Italia,Europa,125,Antigua arquitectura romana
+10,Museos Vaticanos,Ciudad del Vaticano,8000000,2019.0,Ciudad del Vaticano,Europa,1506,Arquitectura Renacentista
+11,Santuario del Padre Pío en San Giovanni Rotondo,San Giovanni Rotondo,6600000,2012.0,Italia,Europa,1861,Arquitectura moderna
+12,Museo Británico,Londres,6239983,2019.0,Reino Unido,Europa,1823,Neoclásico
+13,Tate Modern,Londres,6098340,2019.0,Reino Unido,Europa,2006,Arquitectuta contemporánea
+14,National Gallery de Londres,Londres,6011007,2019.0,Reino Unido,Europa,1824,Postmodernista
+15,Santuario de Nuestra Señora de Lourdes,Lourdes,6000000,2012.0,Francia,Europa,1858,Romano-bizantino
+16,Catedral de Colonia,Colonia,6200000,2018.0,Alemania,Europa,1248,Arquitectura gótica
+17,Basílica de San Francisco de Asís,Cracovia,5835027,2012.0,Polonia,Europa,1228,Arquitectura mudéjar
+18,Museo de Historia Natural (Londres),Londres,5300000,2019.0,Reino Unido,Europa,1873,Victoriana-Neogotica
+19,Palacio de Peterhof,San Petesburgo,9350000,2018.0,Rusia,Europa,1703,Barroco
+20,Basílica de San Marcos,Venecia,5000000,2020.0,Italia,Europa,832,Bizantina-Gotica
+21,Museo del Hermitage,San Petersburgo,4956529,2019.0,Rusia,Europa,1852,Palladianismo
+22,Sagrada Familia,Barcelona,4500000,2018.0,España,Europa,1882,Gotico tardío
+23,Capilla Sixtina,Ciudad del Vaticano,8000000,2019.0,Ciudad del Vaticano,Europa,1473,Renacimiento
+24,Duomo de Florencia,Florencia,10500000,2020.0,Italia,Europa,1296,Renacimiento
+25,Museo Nacional Centro de Arte Reina Sofía,Madrid,4425699,2019.0,España,Europa,1756,Neoclásico
+26,Santuario de Jasna Gora,Czestochowa,4400000,2019.0,Polonia,Europa,1382,Renacentista
+27,Galleria degli Uffizi,Florencia,4391861,2019.0,Italia,Europa,1581,Renacentista
+28,Museo de Victoria y Alberto,Londres,3932938,2019.0,Reino Unido,Europa,1852,Eclética
+29,Museo de Orsay,París,3700000,2019.0,Francia,Europa,1986,Neobizantina y Neogótica
+30,London Science Museum,Londres,3286000,2018.0,Reino Unido,Europa,1857,Neogótico
+31,Centre Pompidou,París,3273867,2019.0,Francia,Europa,1977,Moderno y contemporáneo
+32,Somerset House,Londres,3143626,2018.0,Reino Unido,Europa,1796,Neoclásica y Victoriana
+33,Palacio de Wilanow,Varsovia,3098985,2016.0,Polonia,Europa,1677,Barroca
+34,Palacio de Schönbrunn,Viena,7250000,2018.0,Austria,Europa,1700,Barroca
+35,Kremlin de Kazán,Kazan,4500000,2016.0,Rusia,Europa,1848,Arquitectura tártara
+36,Museo del Prado,Madrid,2893000,2018.0,España,Europa,1785,Neoclásico
+37,Museos del Kremlin de Moscú,Moscu,2900000,2019.0,Rusia,Europa,1850,Arquitectura estalinista
+38,Torre de Londres,Londres,2980000,2019.0,Reino Unido,Europa,1100,Neogótico
+39,Alhambra,Granada,2700000,2019.0,España,Europa,1492,Arquitectura islámica
+40,Ciudad de las Artes y las Ciencias,Valencia,2637567,2018.0,España,Europa,1994,Arquitectura moderna
+111,Royal Museums Greenwich,Greenwich,2 549 833,2018.0,Reino Unido,Europa,1635,Barroco Inglés
+117,Museo de la batalla de Stalingrado,Rusia,720000,2018.0,Rusia,Europa,1995,Industrial
+121,Rijksmuseum,Ámsterdam,2 300 000,2018.0,Paises Bajos,Europa,1876,Neogótico Holandés
+125,Cité des sciences et de l'industrie,París,2 231 000,2018.0,Francia,Europa,1986,Moderno
+126,Museo Nacional de Escocia,Edimburgo,2 227 773,2018.0,Reino Unido,Europa,1861,Neorrománico
+127,Museo Estatal Ruso,San Petersburgo,2 192 200,2018.0,Rusia,Europa,1895,Neoclásico
+129,Galerías nacionales de Escocia,Edimburgo,2 165 601,2017.0,Reino Unido,Europa,1859,Neoclásico
+130,Museo Van Gogh,Ámsterdam,2 161 160,2018.0,Paises Bajos,Europa,1964,Moderno
+131,Galería Tretiakov,Moscú,2 148 538,2018.0,Rusia,Europa,1856,Constructivista
+133,Castillo de Edimburgo,Edimburgo,2 111 578,2018.0,Reino Unido,Europa,1130,Medieval Escocesa
+134,Palacio Lazienki,Varsovia,2 100 000,2016.0,Polonia,Europa,1689,Neoclásico
+135,Museo estatal Auschwitz-Birkenau,Auschwitz,500000,2020.0,Polonia,Europa,1947,Industrial
+139,Capilla de Nuestra Señora de la Medalla Milagrosa,París,2 000 000,2012.0,Francia,Europa,1953,Neogótico
+141,Mezquita-Catedral de Córdoba,Córdoba,2100000,2019.0,España,Europa,786,Islámico
+142,Real Alcázar de Sevilla,Sevilla,2400000,2018.0,España,Europa,1356,"Islámico, Renacentista"
+144,Catedral de San Pablo,Londres,1 657 446,2018.0,Reino Unido,Europa,1675,"Renacimiento, Barroco Inglés"
+146,Arco de Triunfo de París,París,1 583 260,2017.0,Francia,Europa,1806,Neoclásico
+148,Palacio Real de Madrid,Madrid,1 552 481,2018.0,España,Europa,1735,"Barroco, Clásico"
+150,Castillo de Neuschwanstein,Hohenschwangau,165000,2018.0,Reino Unido,Europa,1869,Neorrománico
+159,Duomo de Milán,Milán,7850000,2012.0,Italia,Europa,1936,Neogótico
