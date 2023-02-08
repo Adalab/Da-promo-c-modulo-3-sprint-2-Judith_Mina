@@ -1,4 +1,4 @@
-,monumento,ciudad,visitantes_año,año_conteo,pais_corto,continente,año_construccion,estilo
+,nombre,ciudad,visitantes_año,año_conteo,pais_corto,continente,año_construccion,estilo
 0,Catedral de Notre Dame,París,14000000,2018.0,Francia,Europa,1163,Gótica francesa
 1,Basílica de San Pedro,Ciudad del Vaticano,8000000,2019.0,Ciudad del Vaticano,Europa,1506,Renacimiento-Barroco
 2,Basílica del Sagrado Corazón,París,10500000,2020.0,Francia,Europa,1923,Neobizantina
